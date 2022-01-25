@@ -38,3 +38,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 This is where I put the last session that I am.
 
 I have finished the course
+
+115 dynamic page getstaticpath and getstaticprops
